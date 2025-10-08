@@ -21,11 +21,10 @@ I am building my foundational expertise around powerful systems and versatile la
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **System** | [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=555)](https://www.linuxfoundation.org/) |
-| **Backend / OOP** | [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=555)](https://dotnet.microsoft.com/en-us/languages/csharp) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=555)](https://www.java.com/en/) |
+| **System** | [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=555)](https://github.com/ram-459/AWS_LINUX_BY_rpk) |
 | **Scripting / Data** | [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=555)](https://www.python.org/) |
 | **Other Languages** | [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=555)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=555)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
-| **Mobile** | [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=555)](https://flutter.dev/) |
+| **Mobile** | [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=555)](https://github.com/ram-459/urmedio) |
 
 ---
 
