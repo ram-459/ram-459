@@ -9,9 +9,9 @@
 ## 🚀 About Me
 
 - 🔭 Currently sharpening my skills in **Flutter** for mobile development and **DevOps** practices.
-- 🌱 Actively learning **C#, Python, Cloud technologies**, and mastering **GitHub** workflows.
+- 🌱 Actively learning **C#, Python, Linux**, and mastering **GitHub** workflows.
 - 🔗 Find all my projects and contributions here: [My GitHub Profile](https://github.com/ram-459)
-- 💡 **Fun Fact:** I often find the process of **fixing a complex bug** more rewarding than the initial code writing!
+
 
 ---
 
