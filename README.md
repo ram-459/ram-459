@@ -1,41 +1,59 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="150"/>
+# Ram Prakash Kurmi
 
-<h1>🕷️ Ram Prakash Kurmi</h1>
+<img src="https://cdn.wallpapersafari.com/97/15/VEaWkB.jpg" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=🕷️+Spider+Mode+Activated;⚙️+DevOps+Engineer+in+Progress;🤖+Iron+Man+Tech+Builder;📱+Flutter+Developer;🐍+Python+Explorer" />
-
-</div>
-
----
-
-## 🎬 HERO CINEMATIC MODE
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="400"/>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+### DevOps Engineer | Mobile Application Developer | Python Enthusiast
 
 </div>
 
 ---
 
-## 🕷️ GAME INTERFACE (SIMULATED)
+## Profile Overview
 
-```diff
-🎮 LOADING GAME ENGINE...
+A highly motivated Computer Engineering student with a strong focus on building scalable systems and modern applications. Currently developing expertise in **DevOps practices**, **cloud architecture**, and **mobile application development**.
 
-🕷️ PLAYER: Ram Prakash Kurmi
-🧠 CLASS: DevOps + Mobile Developer
-⚡ MODE: Spider + Iron Man Hybrid
+---
 
-[██████████░░░░░░░░░] 60% LEVEL PROGRESS
+## Technical Focus Areas
 
-MISSION OBJECTIVES:
-✔ Learn Flutter
-✔ Master DevOps
-✔ Build Real Projects
-⬜ Crack Cloud Architecture
+- **DevOps Engineering**  
+  Learning CI/CD pipelines, containerization, and cloud deployment strategies.
 
-WARNING: FINAL BOSS AHEAD → Production System 😈
+- **Mobile Development (Flutter)**  
+  Building cross-platform applications with modern UI/UX principles.
+
+- **Programming & Backend**  
+  Exploring Python and backend frameworks for scalable solutions.
+
+---
+
+## Current Learning Path
+
+- Advancing in **DevOps tools and workflows**
+- Developing real-world projects using **Flutter**
+- Strengthening problem-solving skills in **software development**
+
+---
+
+## Professional Objectives
+
+- Build production-ready applications and systems  
+- Achieve proficiency in **Cloud Architecture**  
+- Contribute to real-world, scalable tech solutions  
+
+---
+
+## Progress Status
+
+```text
+Overall Development Progress
+
+[██████████░░░░░░░░░] 60%
+
+Focus Areas:
+✔ Flutter Development  
+✔ DevOps Fundamentals  
+✔ Project Building  
+⬜ Cloud Architecture Mastery (In Progress)
